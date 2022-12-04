@@ -20,3 +20,4 @@
 
 - Ability to create shared listening groups
 - Ability to control enternal devices (ie JukeBox)
+- Audiophile Mode (idk like add a notes sections for songs so the user can remeber what equipment they prefer ie different DAC or say vaccum tubes)
