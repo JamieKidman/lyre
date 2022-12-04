@@ -1,6 +1,7 @@
 # Release 0.1.0
 
 ## Features
+
 - Ability to view availible music
 - Ability to view non-available music
 - Ability to stream music from self hosted server to end device
@@ -16,4 +17,6 @@
 ## Bugfixes
 
 # Future Releases
-- Ability to create shared listing groups
+
+- Ability to create shared listening groups
+- Ability to control enternal devices (ie JukeBox)
